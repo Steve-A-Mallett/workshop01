@@ -6,6 +6,7 @@ library(ggtext)
 library(emojifont)
 library(tidyr)
 library(reshape2)
+# added some code in R Studio
 
 ui <- fluidPage(
   
